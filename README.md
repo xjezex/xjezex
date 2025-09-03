@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 ¡Hola! Soy Ezequiel, desarrollador de software con experiencia en banca digital y core banking (Temenos T24, JBase, Java), donde participé en el desarrollo de nuevas funcionalidades, corrección de errores y despliegues en entornos AWS, Docker y Jenkins.<br>Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales<br><br>⚡ Me interesa seguir creciendo en arquitecturas mode
+👋 ¡Hola! Soy Ezequiel, desarrollador de software con experiencia en banca digital y core banking (Temenos T24, JBase, Java), donde participé en el desarrollo de nuevas funcionalidades, corrección de errores y despliegues en entornos AWS, Docker y Jenkins.<br>Me apasiona aprender nuevas tecnologías y aplicarlas en proyectos reales<br><br>⚡ Me interesa seguir creciendo en arquitecturas modernas, automatización con Spring Batch, y mejorar mis habilidades en desarrollo fullstack y DevOps.
 
 
 ## 🌐 Socials:
